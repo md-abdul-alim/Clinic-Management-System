@@ -1,0 +1,11 @@
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Repository.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Data.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\bin\Debug\ClinicManagement.Entities.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csprojAssemblyReference.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csproj.CoreCompileInputs.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.csproj.CopyComplete
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Repository\obj\Debug\ClinicManagement.Repository.pdb

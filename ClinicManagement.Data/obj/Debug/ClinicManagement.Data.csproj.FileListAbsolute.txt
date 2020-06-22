@@ -1,0 +1,6 @@
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\bin\Debug\ClinicManagement.Data.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csprojAssemblyReference.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.csproj.CoreCompileInputs.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Data\obj\Debug\ClinicManagement.Data.pdb

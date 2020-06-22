@@ -1,0 +1,9 @@
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\bin\Debug\ClinicManagement.Entities.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\bin\Debug\ClinicManagement.Entities.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\bin\Debug\ClinicManagement.Data.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\bin\Debug\ClinicManagement.Data.pdb
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\obj\Debug\ClinicManagement.Entities.csprojAssemblyReference.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\obj\Debug\ClinicManagement.Entities.csproj.CoreCompileInputs.cache
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\obj\Debug\ClinicManagement.Entities.csproj.CopyComplete
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\obj\Debug\ClinicManagement.Entities.dll
+E:\Programing\C#\Projects\Clinic Management System\ClinicManagement\ClinicManagement.Entities\obj\Debug\ClinicManagement.Entities.pdb
