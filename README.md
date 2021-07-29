@@ -11,3 +11,5 @@ Admin can add remove patient, doctor, clinic. He is authorized to verify doctor 
 
 # Patient:
 Patient have some awasome features like search doctor with id, name. Patient can select a doctor for taking an appointment. There is a history option where patient will able to visit all past & present prescription and also a notification option where patient get notification if a doctor accept appointment and also get a new prescription.
+
+# Doctor:
