@@ -14,3 +14,6 @@ Patient have some awasome features like search doctor with id, name. Patient can
 
 # Doctor:
 Doctor can accept patient appointment request. After accepting request, doctor will select patient from a list to give prescription. During prescribe doctor is able to check patient past prescription history. For each prescription seleted patient will get notification of his/her prescription and also there will add a count of patient visit for the doctor.
+
+# Clinic:
+Clinic have some limited features. Clinic can update a requested prescription after completing the test. Have list view of all doctor under that clinic.
